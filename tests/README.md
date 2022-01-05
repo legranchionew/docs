@@ -55,7 +55,7 @@ run the linter:
 npm run lint
 ```
 
-### Broken link test
+### Broken link tests
 
 This test checks all internal links and image references in the English site. To run it locally (takes about 60 seconds):
 
